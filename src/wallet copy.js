@@ -12,7 +12,7 @@
 //     return new ThirdwebSDK(provider);
 //   }, [provider]);
 
-// //   const PRIV_KEY = "a0064ca30a15d338590d95fc7d1e87f889d11fe31897340b391674e84d49f1ee"
+// //   const PRIV_KEY = ""
 // //   const sdk = new ThirdwebSDK(
 // //     new ethers.Wallet(
 // //         // Your wallet private key
